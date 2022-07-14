@@ -37,7 +37,7 @@ body {
 .resume {
     margin: 50px auto;
     border: 1px solid #913939;
-    box-shadow: 1px 1px 7px 7px #f5f5f5;
+    box-shadow: 1px 10px 10px 10px #f5f5f5;
     padding: 30px 0;
     max-width: 900px;
 }
